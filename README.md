@@ -5,4 +5,4 @@ Aulas de Node.js feitas pela rocketseat
 Desenvolvimento do layout usando css e HTML
 
 ## Aula 2
-Finalização do Layout 
+Finalização do Layout da home e da página de criação de sala
