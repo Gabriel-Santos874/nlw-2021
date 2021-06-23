@@ -6,3 +6,6 @@ Desenvolvimento do layout usando css e HTML
 
 ## Aula 2
 Finalização do Layout da home e da página de criação de sala
+
+## Aula 3
+Finalização de todo layout e da modal
