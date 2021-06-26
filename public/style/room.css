@@ -160,8 +160,26 @@
     background: var(--grey-blue);
 }
 
+/* No questions */
+.noQuestions{
+    text-align: center;
+    margin: 5.2rem;
+    max-width: 100%;
+}
 
+.noQuestions p{
+    margin-top: 1.3rem;
+    font-family: 'Poppins', sans-serif;
+    color: var(--black);
+    font-size: 1.8rem;
+    font-weight: 600;
+}
 
+.noQuestions p + p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--grey-dark);
+    line-height: 1.9rem;
 
-
-
+}
